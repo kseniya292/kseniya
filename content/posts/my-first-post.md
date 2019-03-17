@@ -14,7 +14,7 @@ I was reminiscing about my first website (the one that has been down for months)
 
 It was a Jekyll site, which was fun to build. 
 
-I spent countless hours designing and redesigning it. Switching images, colors, fonts, header size. Should the headers be Sans or Sans-serif? Should I go for a minimalist look or use bright colors to make it standout? How many pictures of myself are too many pictures? I need to do a photoshoot. I need to design a logo. 
+I spent countless hours designing and redesigning it. Switching images, colors, fonts, header sizes. Should the headers be Sans or Sans-serif? Should I go for a minimalist look or use bright colors to make it standout? How many pictures of myself are too many pictures? I need to do a photoshoot. I need to design a logo. 
 
 Finally, after a design was chosen...I hated it anyway. It seems that no matter what I design for myself, I won't like it. We are our own worst critics. 
 

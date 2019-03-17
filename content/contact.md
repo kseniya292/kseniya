@@ -1,6 +1,7 @@
-+++
-title = "Contact"
-slug = "contact"
-+++
+---
+title: "Contact"
+slug: "contact"
+---
 
-Follow me, @kseniya292.
+
+Email me: kseniya@upstate.agency
