@@ -1,14 +1,14 @@
-+++ 
-draft = false
-date = 2019-03-15T21:43:53-07:00
-title = "My New Website"
-description = ""
-slug = "" 
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+--- 
+draft: false
+date:  2019-03-15T21:43:53-07:00
+title:  "My New Website"
+description:  ""
+slug:  "" 
+tags:  []
+categories: []
+externalLink:  ""
+series:  []
+---
 
 I was reminiscing about my first website (the one that has been down for months). 
 
