@@ -2,43 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kseniya</title>
-    <link>/</link>
+    <link>https://kseniya.io/</link>
     <description>Recent content on Kseniya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Mar 2019 21:43:53 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kseniya.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My New Website</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://kseniya.io/posts/my-first-post/</link>
       <pubDate>Fri, 15 Mar 2019 21:43:53 -0700</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://kseniya.io/posts/my-first-post/</guid>
       <description>I was reminiscing about my first website (the one that has been down for months).
 It was a Jekyll site, which was fun to build.
 I spent countless hours designing and redesigning it. Switching images, colors, fonts, header sizes. Should the headers be Sans or Sans-serif? Should I go for a minimalist look or use bright colors to make it standout? How many pictures of myself are too many pictures? I need to do a photoshoot.</description>
     </item>
     
     <item>
+      <title>Learn Teach Code Lightning Talks</title>
+      <link>https://kseniya.io/speaking/why-i-love-blockchain-technology/</link>
+      <pubDate>Sun, 18 Mar 2018 18:34:52 -0700</pubDate>
+      
+      <guid>https://kseniya.io/speaking/why-i-love-blockchain-technology/</guid>
+      <description>Why I Love Blockchain Technology Learn Teach Code is a tech organization based in Los Angeles, CA. In March of 2018, they held a Two-Minute Tech Talk Contest. I gave a talk about why I love blockchain technology and placed as one of the five winners.
+Slides
+Content</description>
+    </item>
+    
+    <item>
+      <title>Women in Coding Workshop</title>
+      <link>https://kseniya.io/speaking/womenincoding/</link>
+      <pubDate>Wed, 13 Apr 2016 22:43:08 -0700</pubDate>
+      
+      <guid>https://kseniya.io/speaking/womenincoding/</guid>
+      <description>Intro to HTML &amp;amp; CSS Workshop This was a two-part, 4-hour introduction to HTML &amp;amp; CSS hosted by Women in Coding. The class taught students how to structure a webpage with HTML and style if with CSS.
+Meetup Event</description>
+    </item>
+    
+    <item>
       <title>About Kseniya</title>
-      <link>/about/</link>
+      <link>https://kseniya.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://kseniya.io/about/</guid>
       <description>Kseniya is a co-founder and software developer at Upstate Interactive, a digital consultancy headquartered in Syracuse, NY.
 In 2015 she wrote her first line of code and in 2016 she took a Full Stack Javascript bootcamp that changed everything. During the bootcamp, Kseniya decided to leave her comfortable career in accounting and pursue web development full time. Not before long, she had started a company with her three business partners.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://kseniya.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
-      <description>Email me: kseniya@upstate.agency</description>
+      <guid>https://kseniya.io/contact/</guid>
+      <description>Email me: kseniya@upstateinteractive.io</description>
     </item>
     
   </channel>

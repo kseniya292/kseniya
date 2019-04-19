@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://kseniya.io/"
 title = "Kseniya"
 
 theme = "hugo-coder"
@@ -19,9 +19,9 @@ disqusShortname = "yourdiscussshortname"
     author = "Kseniya Lifanova"
     description = "Kseniya Lifanova's personal website"
     keywords = "blog,developer,personal"
-    info = "Co-founder and Software Developer"
+    info = "Co-founder, Software Developer, Dreamer"
     avatarurl = "images/headshot-xsmall.jpg"
-    footercontent = "My website."
+    footercontent = "Kseniya Lifanova."
 
     dateformat = "January 2, 2006"
 
@@ -72,7 +72,11 @@ disqusShortname = "yourdiscussshortname"
     name = "Blog"
     weight = 2
     url  = "/posts/"
-    [[menu.main]]
-    name = "Contact"
+[[menu.main]]
+    name = "Speaking"
     weight = 3
+    url  = "/speaking/"
+[[menu.main]]
+    name = "Contact"
+    weight = 4
     url  = "/contact/"

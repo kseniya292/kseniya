@@ -4,4 +4,4 @@ slug: "contact"
 ---
 
 
-Email me: kseniya@upstate.agency
+Email me: kseniya@upstateinteractive.io

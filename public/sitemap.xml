@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://kseniya.io/speaking/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kseniya.io/posts/my-first-post/</loc>
     <lastmod>2019-03-15T21:43:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://kseniya.io/speaking/why-i-love-blockchain-technology/</loc>
+    <lastmod>2018-03-18T18:34:52-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://kseniya.io/speaking/womenincoding/</loc>
+    <lastmod>2016-04-13T22:43:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://kseniya.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kseniya.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kseniya.io/</loc>
     <lastmod>2019-03-15T21:43:53-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://kseniya.io/posts/</loc>
     <lastmod>2019-03-15T21:43:53-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://kseniya.io/series/</loc>
     <priority>0</priority>
   </url>
   
